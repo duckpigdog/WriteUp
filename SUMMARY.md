@@ -4,6 +4,7 @@
 - [1. CTF](Chapter1/README.md)
   - [1.1 2024 第一届 Solar 应急响应挑战赛](Chapter1/1-1.md)
   - [1.2 0xGame 2020](Chapter1/1-2.md)
+  - [1.3 CySCA2014](Chapter1/1-3.md)
 - [2. HackMyVM](Chapter2/README.md)
   - [2.1 Greatwall](Chapter2/2-1.md)
 - [3. VunlHub](Chapter3/README.md)
@@ -22,6 +23,8 @@
   - [3.13 HackLAB: VulnVoIP](Chapter3/3-13.md)
   - [3.14 LAMPSecurity: CTF7](Chapter3/3-14.md)
   - [3.15 /dev/random: relativity (v1.0.1)](Chapter3/3-15.md)
+  - [3.16 xerxes: 1](Chapter3/3-16.md)
+  - [3.17 Bot Challenges: Dexter](Chapter3/3-17.md)
 - [4. CTF Challenge](Chapter4/README.md)
   - [4.1 攻防世界-Mobile](Chapter4/4-1.md)
 - 
