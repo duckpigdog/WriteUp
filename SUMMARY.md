@@ -4,7 +4,7 @@
 - [1. CTF](Chapter1/README.md)
   - [1.1 2024 第一届 Solar 应急响应挑战赛](Chapter1/1-1.md)
   - [1.2 0xGame 2020](Chapter1/1-2.md)
-  - [1.3 CySCA2014](Chapter1/1-3.md)
+  - [1.3 CySCA 2014（澳大利亚国家级网络安全挑战赛）](Chapter1/1-3.md)
 - [2. HackMyVM](Chapter2/README.md)
   - [2.1 Greatwall](Chapter2/2-1.md)
 - [3. VunlHub](Chapter3/README.md)
