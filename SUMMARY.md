@@ -26,7 +26,8 @@
   - [3.16 xerxes: 1](Chapter3/3-16.md)
   - [3.17 Bot Challenges: Dexter](Chapter3/3-17.md)
   - [3.18 SkyTower: 1](Chapter3/3-18.md)
-  - [3.19 Hell: 1](Chapter3/``3-19.md)
+  - [3.19 Hell: 1](Chapter3/3-19.md)
+  - [3.20 Flick: 1](Chapter3/3-20.md)
 - [4. CTF Challenge](Chapter4/README.md)
   - [4.1 攻防世界-Mobile](Chapter4/4-1.md)
 - ``
