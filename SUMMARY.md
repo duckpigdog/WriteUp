@@ -29,6 +29,7 @@
   - [3.19 Hell: 1](Chapter3/3-19.md)
   - [3.20 Flick: 1](Chapter3/3-20.md)
   - [3.21 Tr0ll: 1](Chapter3/3-21.md)
+  - [3.22 Darknet: 1.0](Chapter3/3-22.md)
 - [4. CTF Challenge](Chapter4/README.md)
   - [4.1 攻防世界-Mobile](Chapter4/4-1.md)
 - ``
