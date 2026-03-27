@@ -33,6 +33,16 @@
   - [3.23 NullByte: 1](Chapter3/3-23.md)
   - [3.24 Acid: Server](Chapter3/3-24.md)
   - [3.25 Acid: Reloaded](Chapter3/3-25.md)
+  - [3.26 Lord Of The Root: 1.0.1](Chapter3/3-26.md)
+  - [3.27 SecTalks: BNE0x03 - Simple](Chapter3/3-27.md)
+  - [3.28 Droopy: v0.2](Chapter3/3-28.md)
+  - [3.29 Gibson: 0.2](Chapter3/3-29.md)
+  - [3.30 Milnet: 1](Chapter3/3-30.md)
+  - [3.31 Violator: 1](Chapter3/3-31.md)
+  - [3.32 6Days Lab: 1.1](Chapter3/3-32.md)
+  - [3.33 PwnLab: init](Chapter3/3-33.md)
+  - [3.34 Breach: 1](Chapter3/3-34.md)
+  - [3.35 pluck: 1](Chapter3/3-35.md)
 - [4. CTF Challenge](Chapter4/README.md)
-  - [4.1 攻防世界-Mobile](Chapter4/4-1.md)
+  - 
 - 
