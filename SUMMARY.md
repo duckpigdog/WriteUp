@@ -43,6 +43,7 @@
   - [3.33 PwnLab: init](Chapter3/3-33.md)
   - [3.34 Breach: 1](Chapter3/3-34.md)
   - [3.35 pluck: 1](Chapter3/3-35.md)
+  - [3.36 DC416: 2016-Fortress](Chapter3/3-36.md)
+  - [3.37 hackfest2016: Sedna](Chapter3/3-37.md)
 - [4. CTF Challenge](Chapter4/README.md)
-  - 
 - 
